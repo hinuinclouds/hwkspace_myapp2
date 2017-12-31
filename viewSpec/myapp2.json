@@ -203,18 +203,6 @@
                       "name" : "Row_2",
                       "alignment" : "left",
                       "autoNav" : false,
-                      "childrenSpecs" : [
-                        {
-                          "name" : "IncomeCard_1",
-                          "alignment" : "left",
-                          "autoNav" : false,
-                          "flexGrow" : "1",
-                          "reference" : "IncomeCard",
-                          "tag" : "userDefined",
-                          "trigger" : "_initial_/home_",
-                          "type" : "view"
-                        }
-                      ],
                       "tag" : "userDefined",
                       "trigger" : "_initial_/home_",
                       "type" : "row"
